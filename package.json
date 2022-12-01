@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "emailjs": "^4.0.1",
+    "nodemon": "^2.0.20",
+    "server.js": "^1.0.0",
+    "slick-carousel": "^1.8.1"
+  }
+}

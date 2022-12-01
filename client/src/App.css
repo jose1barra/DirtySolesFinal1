@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    overflow-anchor: auto;
+}
+
+.container {
+    margin: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    min-width: 100vw;
+    margin: 0 auto;
+}
